@@ -22,10 +22,5 @@ Features
     Sales reached 172K overall
     Regional filtering provides dynamic insights
 
-
-
-
-
-🎯 Conclusion
-
-This dashboard helps in understanding business performance and supports decision-making using data visualization.
+ Conclusion
+    This dashboard helps in understanding business performance and supports decision-making using data visualization.
